@@ -94,7 +94,7 @@ API REST para gerenciamento de produtos e pedidos.
 
 ## 📫 Contato
 
-💼 LinkedIn: Guilherme Domingues  
+💼 LinkedIn: [Guilherme Domingues](www.linkedin.com/in/gui-dominguez)  
 📧 Email: guipaula468@gmail.com
 
 Estou buscando minha primeira oportunidade profissional na área de tecnologia, 
